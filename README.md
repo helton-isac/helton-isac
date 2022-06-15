@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Olivia.ai](https://www.olivia.ai/)
-- 🌱 I’m currently learning iOT
-- 👯 I’m looking to collaborate on any Android Project that impacts society
+- 🔭 I’m currently working on [Nubank]([https://www.olivia.ai/](https://nubank.com.br/))
 - 💬 Ask me about anything
 - 📫 How to reach me: [twitter](https://twitter.com/Helton_Isac)
 - ⚡ Fun fact: Don't speak ill of Lost to me! 
